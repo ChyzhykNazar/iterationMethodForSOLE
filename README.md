@@ -1,4 +1,4 @@
-# iterationMethodForSOLE
+# iterationMethodForSOLE(Jacobi method)
 📖Educational project, where presented solution for systems of linear equations using iteration method with precision 0.01.
 
 📖Навчальний проект, де представлено розв'язок СЛАР(системи лінійних алгебраїчних рівнянь) за допомогою метода ітерацій з точністю 0.01
